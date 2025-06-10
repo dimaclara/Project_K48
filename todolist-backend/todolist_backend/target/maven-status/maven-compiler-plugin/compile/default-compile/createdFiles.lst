@@ -1,0 +1,13 @@
+tech\marie\todolist\controller\TaskController.class
+tech\marie\todolist\DTO\TaskDto.class
+tech\marie\todolist\service\TaskService.class
+tech\marie\todolist\Exceptions\GlobalExceptionHandler.class
+tech\marie\todolist\Model\Tasks.class
+tech\marie\todolist\Exceptions\TaskNotFoundException.class
+tech\marie\todolist\DTO\TaskDtoResponse.class
+tech\marie\todolist\TodolistBackendApplication.class
+tech\marie\todolist\Model\Status.class
+tech\marie\todolist\repository\TasksRepository.class
+tech\marie\todolist\configs\SwaggerConfig.class
+tech\marie\todolist\CustomValidation\DateRangeValidator.class
+tech\marie\todolist\CustomValidation\ValidDateRange.class

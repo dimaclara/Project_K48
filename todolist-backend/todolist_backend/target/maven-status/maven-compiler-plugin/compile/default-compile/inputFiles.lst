@@ -1,0 +1,13 @@
+C:\Users\User\IdeaProjects\APIweb48\todolist-backend\todolist_backend\src\main\java\tech\marie\todolist\configs\SwaggerConfig.java
+C:\Users\User\IdeaProjects\APIweb48\todolist-backend\todolist_backend\src\main\java\tech\marie\todolist\controller\TaskController.java
+C:\Users\User\IdeaProjects\APIweb48\todolist-backend\todolist_backend\src\main\java\tech\marie\todolist\CustomValidation\DateRangeValidator.java
+C:\Users\User\IdeaProjects\APIweb48\todolist-backend\todolist_backend\src\main\java\tech\marie\todolist\CustomValidation\ValidDateRange.java
+C:\Users\User\IdeaProjects\APIweb48\todolist-backend\todolist_backend\src\main\java\tech\marie\todolist\DTO\TaskDto.java
+C:\Users\User\IdeaProjects\APIweb48\todolist-backend\todolist_backend\src\main\java\tech\marie\todolist\DTO\TaskDtoResponse.java
+C:\Users\User\IdeaProjects\APIweb48\todolist-backend\todolist_backend\src\main\java\tech\marie\todolist\Exceptions\GlobalExceptionHandler.java
+C:\Users\User\IdeaProjects\APIweb48\todolist-backend\todolist_backend\src\main\java\tech\marie\todolist\Exceptions\TaskNotFoundException.java
+C:\Users\User\IdeaProjects\APIweb48\todolist-backend\todolist_backend\src\main\java\tech\marie\todolist\Model\Status.java
+C:\Users\User\IdeaProjects\APIweb48\todolist-backend\todolist_backend\src\main\java\tech\marie\todolist\Model\Tasks.java
+C:\Users\User\IdeaProjects\APIweb48\todolist-backend\todolist_backend\src\main\java\tech\marie\todolist\repository\TasksRepository.java
+C:\Users\User\IdeaProjects\APIweb48\todolist-backend\todolist_backend\src\main\java\tech\marie\todolist\service\TaskService.java
+C:\Users\User\IdeaProjects\APIweb48\todolist-backend\todolist_backend\src\main\java\tech\marie\todolist\TodolistBackendApplication.java

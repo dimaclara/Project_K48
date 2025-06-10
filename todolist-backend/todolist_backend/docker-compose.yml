@@ -1,0 +1,30 @@
+
+
+  services:
+    postgres:
+      image: postgres
+      restart: always
+      environment:
+        POSTGRES_USER: postgres
+        POSTGRES_DB: todolist
+        POSTGRES_PASSWORD: Michel2015.
+      volumes:
+        - pg_data:/var/lib/postgresql/data
+
+      ports:
+       - "5432:5432"
+    app:
+      build:
+      ports:
+        - "3020:3020"
+      depends_on:
+        - postgres
+      environment:
+        POSTGRES_DB: todolist
+        POSTGRES_USER: postgres
+        POSTGRES_PASSWORD: Michel2015.
+      volumes:
+       -pg_data:/var/lib/postgresql/data
+
+  volumes:
+    pg_data:
